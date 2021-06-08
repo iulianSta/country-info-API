@@ -1,0 +1,2 @@
+(this["webpackJsonpcountry-info"]=this["webpackJsonpcountry-info"]||[]).push([[0],{10:function(n,t,e){"use strict";e.r(t);var c=e(1),o=e.n(c),r=e(3),s=e.n(r),i=e(0);var u=function(){return Object(i.jsx)("div",{className:"App"})};e(9);s.a.render(Object(i.jsx)(o.a.StrictMode,{children:Object(i.jsx)(u,{})}),document.getElementById("root"))},9:function(n,t,e){}},[[10,1,2]]]);
+//# sourceMappingURL=main.3353dc02.chunk.js.map
