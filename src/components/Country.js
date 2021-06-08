@@ -17,7 +17,7 @@ const Country = ({ results }) => {
       subregion,
     } = obj;
     return (
-      <div key={i}>
+      <div key={i} className="country">
         <h2>
           {name}, {nativeName}({alpha2Code})
         </h2>

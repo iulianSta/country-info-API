@@ -13,3 +13,13 @@
   @include flex;
   padding: 1em;
 }
+
+// Info setup
+.country {
+  width: 100vw;
+  margin: 1.2rem;
+  @include flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
