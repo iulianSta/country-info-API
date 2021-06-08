@@ -11,7 +11,6 @@ const Loading = () => {
           alt="Ajax-loader.gif"
         />
       </h4>
-
       <h6>Loading ...</h6>
     </React.Fragment>
   );
