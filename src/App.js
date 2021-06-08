@@ -34,12 +34,13 @@ const App = () => {
 
   return (
     <React.Fragment>
+      <h1>Country Information's</h1>
       <form onSubmit={submitHandle}>
         <input
           type="text"
           value={userInput}
           onChange={changeHandle}
-          placeholder="Write a country name"
+          placeholder="Please write a country name"
         />
         <button type="submit">Search</button>
       </form>
