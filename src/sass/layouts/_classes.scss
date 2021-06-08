@@ -1,11 +1,15 @@
-// Loader setup
+// Classes setup
 
+// Loader setup
 .loader {
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  @include screen;
+  @include flex;
   flex-direction: column;
   position: absolute;
+}
+
+//  Form setup
+.form {
+  @include flex;
+  padding: 1em;
 }

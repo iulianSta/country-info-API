@@ -3,3 +3,18 @@
 // @mixin name {
 //   // your rules
 // }
+
+// Sizes
+
+// Screen size
+@mixin screen {
+  width: 100vw;
+  height: 100vh;
+}
+
+// Display flex
+@mixin flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

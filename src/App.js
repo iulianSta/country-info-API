@@ -35,7 +35,7 @@ const App = () => {
   return (
     <React.Fragment>
       <h1>Country Information's</h1>
-      <form onSubmit={submitHandle}>
+      <form onSubmit={submitHandle} className="form">
         <input
           type="text"
           value={userInput}
