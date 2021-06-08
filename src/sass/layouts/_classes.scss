@@ -22,4 +22,13 @@
   flex-direction: column;
   justify-content: space-evenly;
   align-items: flex-start;
+
+  h2 {
+    margin-bottom: 1em;
+  }
+  .flag {
+    margin-top: 2em;
+    width: 10em;
+    height: 10em;
+  }
 }
