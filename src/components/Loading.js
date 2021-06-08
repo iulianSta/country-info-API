@@ -6,8 +6,12 @@ const Loading = () => {
   return (
     <React.Fragment>
       <h4>
-        <img scr="../public/Ajax-loader.gif" alt="Spinning loader" />
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/d/de/Ajax-loader.gif"
+          alt="Ajax-loader.gif"
+        />
       </h4>
+
       <h6>Loading ...</h6>
     </React.Fragment>
   );
